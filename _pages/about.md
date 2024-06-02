@@ -27,6 +27,7 @@ My research interest includes bioinformatics and animal breeding. I have publish
 - *2024.05*: &nbsp;🎉🎉 Officially accept PhD offer from Westlake University--SMART joint PhD programme!
 - *2024.05*: &nbsp;🎉🎉 Received PhD offer from Westlake University--SMART joint PhD programme!
 - *2024.05*: &nbsp;🎉🎉 Received PhD offer from University of Chinese Academy of Sciences--BGI joint PhD programme as rank No.1!
+- *2023.12*: &nbsp;🎉🎉 Won the first-class award of the 2nd Academic Forum Competition of School of Life Sciences, Sun Yat-sen University!
 - *2023.11*: &nbsp;🎉🎉 Received PhD offer from University of Edingburgh PhD!
 - *2023.10*: &nbsp;🎉🎉 Won the National postgraduate schloaship!
 - *2023.04*: &nbsp;🎉🎉 Participated in the "Meeting with Youth" activities of French President Emmanuel Macron's visit to Sun Yat-sen University!
@@ -52,8 +53,8 @@ My research interest includes bioinformatics and animal breeding. I have publish
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - 2022.04 (now)*, Master of science, majoring in biology. School of Life Science, Sun Yat-sen University.  
+- *2017.09 - 2021.06*, Bachelor of Agriculture, majoring in aquaculture. School of Marine Science, South China Agrigulture University. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
