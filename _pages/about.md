@@ -47,7 +47,6 @@ My research interest includes bioinformatics and animal breeding. I have publish
 
 **Dingrui Liu**, Jin Zhang, Zhenjiang Zou, et al
 
-</span></strong>
 - 
 The first GWAS analysis on growth traits of all-female Mandarin fish (Dinggui I, *Siniperca Chuatsi*) was conducted. A total of 6 significant and 25 suggestive SNPs were detected on multiple chromosomes. The proportion of phenotypic variance explained for these SNPs ranged from 9.66% to 19.47% for growth traits. 
 </div>
@@ -60,9 +59,8 @@ The first GWAS analysis on growth traits of all-female Mandarin fish (Dinggui I,
 
 **Dingrui Liu**, Zhuowei Zhang, Yikun Song, et al
 
-</span></strong>
 - 
-Grass carp exhibited great adaptability to low salinity (2 ppt), with no significant difference in growth and maintained stable physiological and immune status. However, exposed to high salinity (6 ppt) caused significant deleterious effects on grass carp, including growth inhibition as well as physiological and immune-related changes. The gut microbiota in grass carp changed with salinity. 
+Grass carp exhibited great adaptability to low salinity (2 ppt), with no significant difference in growth and maintained stable physiological and immune status. However, exposed to high salinity (6 ppt) caused deleterious effects on grass carp, including growth inhibition as well as physiological and immune-related changes. The gut microbiota in grass carp changed with salinity. 
 </div>
 </div>
 
