@@ -24,41 +24,67 @@ My research interest includes bioinformatics and animal breeding. I have publish
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 Officially accept PhD offer from Westlake University--SMART joint PhD programme!
-- *2024.05*: &nbsp;🎉🎉 Received PhD offer from Westlake University--SMART joint PhD programme!
-- *2024.05*: &nbsp;🎉🎉 Received PhD offer from University of Chinese Academy of Sciences--BGI joint PhD programme as rank No.1!
-- *2023.12*: &nbsp;🎉🎉 Won the first-class award of the 2nd Academic Forum Competition of School of Life Sciences, Sun Yat-sen University!
-- *2023.11*: &nbsp;🎉🎉 Received PhD offer from University of Edingburgh PhD!
-- *2023.10*: &nbsp;🎉🎉 Won the National postgraduate schloaship!
-- *2023.04*: &nbsp;🎉🎉 Participated in the "Meeting with Youth" activities of French President Emmanuel Macron's visit to Sun Yat-sen University!
+- *2024.05*: &nbsp;🎉🎉 Officially accept PhD offer from **Westlake University--SMART joint PhD programme**! 🎉🎉
+- *2024.05*: &nbsp;🎉🎉 Received PhD offer from **Westlake University--SMART joint PhD programme**! 🎉🎉
+- *2024.05*: &nbsp;🎉🎉 Received PhD offer from **University of Chinese Academy of Sciences--BGI joint PhD programme** as rank No.1! 🎉🎉
+- *2024.03*: &nbsp;🎉🎉 My second research article got accepted by ***AQUACULTURE***!🎉🎉
+- *2023.12*: &nbsp;🎉🎉 Won the **first-class award** of the 2nd Academic Forum Competition of School of Life Sciences, Sun Yat-sen University! 🎉🎉
+- *2023.11*: &nbsp;🎉🎉 Received PhD offer from **University of Edingburgh**! 🎉🎉
+- *2023.10*: &nbsp;🎉🎉 Just won the **National postgraduate schloaship** (TOP 1%)! 🎉🎉
+- *2023.07*: &nbsp;🎉🎉 Just won the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition! 🎉🎉
+- *2023.06*: &nbsp;🎉🎉 Scored **7.0** in IELTS English test (R:7.5 S:6.5 L:7.5 W:6.25) ! 🎉🎉
+- *2023.04*: &nbsp;🎉🎉 Participated in the "Meeting with Youth" activities of French President **Emmanuel Macron**'s visit to Sun Yat-sen University! 🎉🎉
+- *2023.03*: &nbsp;🎉🎉 My first research article got accepted by ***AQUATIC TOXICOLOGY***!🎉🎉
+- *2022.08*: &nbsp;🎉🎉 Just won the **L.X.H-L.D scholarship** from Sun Yat-sen University! 🎉🎉
+- *2021.04*: &nbsp;🎉🎉 Got admitted by **Sun Yat-sen University** as rank No.1! 🎉🎉
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQUACULTURE</div><img src='images/GYSZGWAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Identification of SNPs and candidate genes associate with growth performance in all-female mandarin fish (*Siniperca chuatsi*) by a genome-wide association study](assets/1-s2.0-S0044848624002394-main.pdf), ***AQUACULTURE***
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Dingrui Liu**, Jin Zhang, Zhenjiang Zou, et al
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</span></strong>
+- 
+The first GWAS analysis on growth traits of all-female Mandarin fish (Dinggui I, *Siniperca Chuatsi*) was conducted. A total of 6 significant and 25 suggestive SNPs were detected on multiple chromosomes. The proportion of phenotypic variance explained for these SNPs ranged from 9.66% to 19.47% for growth traits. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AQUATIC TOXICOLOGY</div><img src='images/CAOYU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Effects of salinity on growth, physiology, biochemistry and gut microbiota of juvenile grass carp (*Ctenopharyngodon idella*)](assets/1-s2.0-S0166445X23000851-main.pdf), ***AQUATIC TOXICOLOGY***
+
+**Dingrui Liu**, Zhuowei Zhang, Yikun Song, et al
+
+</span></strong>
+- 
+Grass carp exhibited great adaptability to low salinity (2 ppt), with no significant difference in growth and maintained stable physiological and immune status. However, exposed to high salinity (6 ppt) caused significant deleterious effects on grass carp, including growth inhibition as well as physiological and immune-related changes. The gut microbiota in grass carp changed with salinity. 
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🎉🎉 the **first-class award** of the 2nd Academic Forum Competition of School of Life Sciences, Sun Yat-sen University 🎉🎉
+- *2023.10*: &nbsp;🎉🎉 the **National postgraduate schloaship** (TOP 1%) 🎉🎉
+- *2023.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
+- *2023.07*: &nbsp;🎉🎉 the **first-class award** of the Guangdong province Yuequn cup Academic Forum Competition 🎉🎉
+- *2022.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
+- *2022.08*: &nbsp;🎉🎉 the **L.X.H-L.D scholarship** from Sun Yat-sen University 🎉🎉
+- *2021.10*: &nbsp;🎉🎉 the **first-class award** of postgraduate school scholarship from Sun Yat-sen University 🎉🎉
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Master of science, majoring in biology. School of Life Science, Sun Yat-sen University.  
-- *2017.09 - 2021.06*, Bachelor of Agriculture, majoring in aquaculture. School of Marine Science, South China Agrigulture University. 
+- *2024.09 - now*, PhD candidate, Westlake University. Shenzhen Medical Academy of Research and Translation, **SMART**, majoring in biology
+- *2021.09 - 2024.06*, Master of science, Sun Yat-sen University. School of Life Science, majoring in biology
+- *2017.09 - 2021.06*, Bachelor of Agriculture, South China Agrigulture University. School of Marine Science, majoring in aquaculture.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.06*, Effects of salinity on fish: From microbiota to muscle quality, The First Postgraduate Academic Achievements Exchange Report of Science Department of Sun Yat-sen University. 
+- *2023.10*,Effects of salinity on growth, physiology, biochemistry and gut microbiota of juvenile grass carp (*Ctenopharyngodon idella*), the 2nd Academic Forum Competition of School of Life Sciences.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.04 - 2022.08*, Guangzhou Nansha aquatic park industry co, ltd. Guangzhou, China.
+- *2021.10 - 2022.06*, Guangdong Liangshi aquatic breeding co, ltd. Foshan, China.
